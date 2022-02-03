@@ -1,0 +1,7 @@
+package ru.sqta.pft.sandbox;
+
+public class myprogram {
+	public static void main(String[] args) {
+		System.out.println("Hello, world!");
+	}
+}
